@@ -1,0 +1,7 @@
+vhdl work "E:\MKS\Lab_3_Example 6\SEGDEC.vhd"
+vhdl work "E:\MKS\Lab_3_Example 6\RAM.vhd"
+vhdl work "E:\MKS\Lab_3_Example 6\MUX.vhd"
+vhdl work "E:\MKS\Lab_3_Example 6\CU.vhd"
+vhdl work "E:\MKS\Lab_3_Example 6\ALU.vhd"
+vhdl work "E:\MKS\Lab_3_Example 6\ACC.vhd"
+vhdl work "E:\MKS\Lab_3_Example 6\TopLevel.vhf"
